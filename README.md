@@ -12,12 +12,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iRankush&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-
-<a href="https://github.com/iRankush/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iRankush&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/iRankush/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iRankush&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRankush&langs_count=8)](https://github.com/iRankush/github-readme-stats)
 
 
