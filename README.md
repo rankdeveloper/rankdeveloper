@@ -12,12 +12,10 @@
 ### 🤝 Connect with me:
 
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iRankush&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<p align="center">
+<img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=iRankush&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRankush&langs_count=8)](https://github.com/iRankush/github-readme-stats)
-  </p>
-  </p>
+ 
 
 
