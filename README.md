@@ -9,9 +9,9 @@
 - 👯 I’m looking to collaborate on Frontend Dev project
 
 - 📫 How to reach me: iamrankush@gmail.com
-### 🤝 Connect with me: 
-<a href="https://www.linkedin.com/in/rankush-280430200/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="30" style=""></a>
- <a href="mailto:iamrankush@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style=""></a>
+### 🤝 Connect with me: <a href="https://www.linkedin.com/in/rankush-280430200/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="30" style=""></a>
+ <a href="mailto:iamrankush@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email me" height="30" style=""></a>
+
 
 
 
