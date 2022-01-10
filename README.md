@@ -16,7 +16,7 @@
 </a>
  <a href="mailto:iamrankush@gmail.com">
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email me" height="30" style="">
-</a>
+</a><br/><br/>
 
 
 
