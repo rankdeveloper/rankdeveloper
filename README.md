@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 ![](https://komarev.com/ghpvc/?username=iRankush&color=blueviolet)
-<br/><br/>I am RANKUSH , I am a Junior Web Developer and a JavaScript and Reactjs enthusiast.. My primary focus is on building Front End Web Applications. I love building dynamic,  interactive, and completely mobile friendly web applications.<br/> 
+<br/><br/>My name is Rankush , I am a Junior Web Developer and a JavaScript and Reactjs enthusiast. My primary focus is on building Front End Web Applications. I love building dynamic,  interactive, and completely mobile friendly web applications.<br/> 
 
 
 - 🔭 I’m currently working on Frontend Development Project
