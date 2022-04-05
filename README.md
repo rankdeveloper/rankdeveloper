@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![](https://komarev.com/ghpvc/?username=iRankush&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=rankdeveloper&color=blueviolet)
 <br/><br/>My name is Rankush , I am a Junior Web Developer and a JavaScript and Reactjs enthusiast. My primary focus is on building Front End Web Applications. I love building dynamic,  interactive, and completely mobile friendly web applications.<br/> 
 
 
@@ -21,9 +21,9 @@
 
 
 
-<img height="" width="" src="https://github-readme-stats.vercel.app/api?username=iRankush&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="" width="" src="https://github-readme-stats.vercel.app/api?username=rankdeveloper&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRankush&langs_count=6)](https://github.com/iRankush/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rankdeveloper&langs_count=6)](https://github.com/rankdeveloper/github-readme-stats)
  
 
 
