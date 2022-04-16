@@ -1,10 +1,10 @@
 ### Hi there 👋 
 
 ![](https://komarev.com/ghpvc/?username=rankdeveloper&color=blueviolet)
-<br/><br/>My name is Rankush , I am a Junior Web Developer and a JavaScript and Reactjs enthusiast. My primary focus is on building Front End Web Applications. I love building dynamic,  interactive, and completely mobile friendly web applications.<br/> 
+<br/><br/I am Rankush , a 18 year old  Web Developer and a JavaScript and Nodejs  enthusiast. My primary focus is on building Front End Web Applications. I love building dynamic,  interactive, and completely mobile friendly web applications.<br/> 
 
 
-- 🔭 I’m currently working on Frontend Development Project
+- 🔭 I’m currently working on Both Frontedn and Backend Development Project
 - 🌱 I’m currently learning node js
 - 👯 I’m looking to collaborate on Frontend Dev project
 
