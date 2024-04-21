@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rankush</h1>
 
  <p align="center">
- <img  style="width:70%" align:"center" src="https://dl.dropbox.com/scl/fi/w739zwjmjzbbz97lhgxei/xero-code.gif?rlkey=vjx06i253l9ajcmr3u0bdbvfb&st=4v61j2e5&dl=0" />
+ <img  style="width:50%;" align:"center" src="https://dl.dropbox.com/scl/fi/w739zwjmjzbbz97lhgxei/xero-code.gif?rlkey=vjx06i253l9ajcmr3u0bdbvfb&st=4v61j2e5&dl=0" />
   </p>
 
 <hr/>
