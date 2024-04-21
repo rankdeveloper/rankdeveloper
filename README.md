@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rankush</h1>
 
-<p style="align-items:center;">
- <img  style="width:60%" src="https://dl.dropbox.com/scl/fi/w739zwjmjzbbz97lhgxei/xero-code.gif?rlkey=vjx06i253l9ajcmr3u0bdbvfb&st=4v61j2e5&dl=0" />
-</p>
+ <p align="center">
+ <img  style="width:70%" align:"center" src="https://dl.dropbox.com/scl/fi/w739zwjmjzbbz97lhgxei/xero-code.gif?rlkey=vjx06i253l9ajcmr3u0bdbvfb&st=4v61j2e5&dl=0" />
+  </p>
+
 <hr/>
 <h4>About me</h4>
 <h6 align="left">Aspiring Full Stack Web Developer from India (Chandigarh) .I thrive on crafting dynamic, interactive, and fully mobile friendly web applications.</h6>
+- 🔭 I’m currently working on MERN stack project
 
-- 🔭 I’m currently working on **MERN stack project**
-
-- 🌱 I’m currently learning **MEARN stack and DSA.**
-
-- 📫 How to reach me **iamrankush@gmail.com**
-
+- 🌱 I’m currently learning MERN stack and DSA.
+  
+- 📫 How to reach me iamrankush@gmail.com
+  
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/rankush-kumar-280430200/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rankush-kumar-280430200/" height="30" width="40" />
 </a>
