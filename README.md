@@ -6,7 +6,7 @@
 
 <hr/>
 <h4>About me</h4>
-<h6 align="left">Aspiring Full Stack Web Developer from India (Chandigarh) .I thrive on crafting dynamic, interactive, and fully mobile friendly web applications.</h6>
+<h6 align="left">Aspiring Full Stack Web Developer from India (Chandigarh) . I thrive on crafting dynamic, interactive, and fully mobile friendly web applications.</h6>
 - 🔭 I’m currently working on MERN stack project
 
 - 🌱 I’m currently learning MERN stack and DSA.
