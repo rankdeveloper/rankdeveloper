@@ -5,34 +5,21 @@
   </p>
 
 <hr/>
-<h3>About me</h3>
-<h6 align="left">Aspiring Full Stack Web Developer from Chandigarh, India . Building and enjoying the future with Web Development.</h6>
 
-- 🔭 I’m currently working on MERN stack project
+I'm a self-taught passionate Web Developer from Chandigarh, India
 
-- 🌱 I’m currently learning MERN stack.
+**About me**
+
+- 💼 I’m currently working on MERN stack project
+
+- ❤️ I love writing JavaScript and build some useful stuff.
   
-- 📫 How to reach me iamrankush@gmail.com
+- 💬 Ask me about anything [here](iamrankush@gmail.com)
   
-<hr/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rankush-kumar-280430200/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rankush-kumar-280430200/" height="30" width="40" />
-</a>
-
-<a href="mailto:iamrankush@gmail.com" target="blank">
-<img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail/" height="35" width="40" />
-</a>
-
-</p>
-
-<hr/>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display:flex; width:100%; border:1px solid red; margin-bottom:1rem; align-items:center;">
+<div align="left" style="display:flex; width:100%;  margin-bottom:1rem; align-items:center;">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -55,12 +42,12 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
+<a href="" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a> 
@@ -71,15 +58,14 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
 
+
 </div>
 
-<hr/>
 
 
-<p style:"display:flex; align-items:center; border:1px solid red; justify-content:center;">
-<img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rankdeveloper&show_icons=true&locale=en&layout=compact" alt="rankdeveloper" />
-<br/>
-<img  src="https://github-readme-stats.vercel.app/api?username=rankdeveloper&show_icons=true&locale=en" alt="rankdeveloper" />
-</p>
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rankdeveloper&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rankdeveloper&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rankush's github stats" /></a> |
+| ------------- | ------------- |
 
 
